@@ -36,30 +36,30 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 const readMore = more.repeat(4001)
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/khoirul36_'
-global.tautanwa = 'https://wa.me/message/'
-global.sgh = 'https://github.com/khrlmstfa' //github
-global.sgc = '' //group whatsapp
+global.sig = 'https://instagram.com/'
+global.tautanwa = 'https://wa.me/62823504965328'
+global.sgh = 'https://github.com/frdy19' //github
+global.sgc = 'https://chat.whatsapp.com/FQH6CI63LJCBTySzClHrrg' //group whatsapp
 global.sdc = '-' //discord
-global.syt = 'https://youtube.com/channel/UC1oSMQCd3XKVxYwSh4RE2Nw'
+global.syt = '-'
 global.sfb = 'https://www.facebook.com/' // facebook
-global.snh = 'https://chat.whatsapp.com/'
-global.media = 'https://telegra.ph/file/08ae4464dfd3cc051a230.jpg'
-global.wame = 'https://wa.me/message/'
+global.snh = 'https://chat.whatsapp.com/FQH6CI63LJCBTySzClHrrg'
+global.media = 'https://telegra.ph/file/6d36f1d039eec862597ff.jpg'
+global.wame = 'https://wa.me/62823504965328'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['62', '𝕽𝖚𝖑𝖑  ꩜', true]
+['62823504965328', 'i am Ferr  ꩜', true]
 ]
 global.mods = []
 global.prems = fs.readFileSync('./rul-settings/premium.json')
-global.nomorbot = '' //pasang no bot lo 
-global.nomorown = '' //pasang no own lo
-global.nomorown1 = ''
-global.nomorown2 = ''
+global.nomorbot = '62823504965326' //pasang no bot lo 
+global.nomorown = '62823504965328' //pasang no own lo
+global.nomorown1 = '62823504965328'
+global.nomorown2 = '62823504965328'
 global.nomorwa = '0'
-global.nameown = '𝕽𝖚𝖑𝖑'
+global.nameown = 'i am Ferr'
 global.gcname = '𝗟𝗲𝗴𝗮𝗰𝘆 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
-global.author = 'Dibuat Oleh 𝕽𝖚𝖑𝖑'
+global.author = 'Created By Ferr'
 global.namebot = '𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗'
 global.packname2 = '𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗 ꩜'
 
@@ -89,15 +89,15 @@ HIRO
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.nameown1= ' ꩜'
-global.nameown2 = '  ꩜'
+global.nameown1= 'i am ferr ꩜'
+global.nameown2 = 'i am ferr  ꩜'
 
 /*============== STAFF ==============*/
 //kosong
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝕽𝖚𝖑𝖑'
+global.wm = '© Created by Ferr'
 global.wm2 = '𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗'
 global.packname = wm
 global.watermark = wm
@@ -118,12 +118,12 @@ global.wibb = `${wktuwib}`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ INTRO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.botintro = 'Hallo, Saya 𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗 akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh  *𝕽𝖚𝖑𝖑* Saya di rilis pada tanggal\n🗓 ️_28/02/2023_'
-global.intro = 'https://telegra.ph/file/08ae4464dfd3cc051a230.jpg'
+global.botintro = 'Hallo, Saya 𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗 akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp, Saya di rilis pada tanggal\n🗓 ️_28/02/2023_'
+global.intro = 'https://telegra.ph/file/6d36f1d039eec862597ff.jpg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.Linkgc = 'https://chat.whatsapp.com/Jvhe5lK67Kj0wWmWcgZZ4L'
+global.Linkgc = 'https://chat.whatsapp.com/FQH6CI63LJCBTySzClHrrg'
 global.lynk = '-'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -309,15 +309,15 @@ global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ THUMBNAIL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.fotonya1 = 'https://telegra.ph/file/2c92507dbadf5a05c41c6.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/08ae4464dfd3cc051a230.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/6d36f1d039eec862597ff.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/6d36f1d039eec862597ff.jpg' //ini juga ganti 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ Main Thumbnail ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.thumb = 'https://telegra.ph/file/896867949807ddbecbe81.jpg' 
-global.imagebot = 'https://telegra.ph/file/2c92507dbadf5a05c41c6.jpg'
+global.thumb = 'https://telegra.ph/file/6d36f1d039eec862597ff.jpg' 
+global.imagebot = 'https://telegra.ph/file/6d36f1d039eec862597ff.jpg'
 global.giflogo = 'https://telegra.ph/file/d99857d74715351bdcd6c.mp4'
-global.thumbs = ['https://telegra.ph/file/08ae4464dfd3cc051a230.jpg']
+global.thumbs = ['https://telegra.ph/file/6d36f1d039eec862597ff.jpg']
 global.thumbnailUrl = [
   'https://telegra.ph/file/ba68723bf59ecbd2fd407.jpg',
   'https://telegra.ph/file/b3dbb0162205bc417d05c.jpg',
@@ -364,11 +364,11 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.logo = 'https://telegra.ph/file/27accc6de818f8bd2eda8.jpg'
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/khoirul36_"
+global.urlnya = "https://www.instagram.com/"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '62xxxx' //nowa mu
+global.phn = '62823504965328' //nowa mu
 
-global.thumbdoc = 'https://telegra.ph/file/896867949807ddbecbe81.jpg'
+global.thumbdoc = 'https://telegra.ph/file/6d36f1d039eec862597ff.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.fsizedoc = '99999999999999'
